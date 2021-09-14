@@ -18,3 +18,8 @@
 === 計算各村里中點與各醫療機構的距離 ===  
 1.依座標直線距離，計算各村里與各醫療機構的距離  
 2.排序出與每個村裡最接近的各類醫療院所  
+  
+  
+=== 最終分析之tableau檔案 ===  
+https://drive.google.com/file/d/15RuVmB-0bKPPO1HZdlWRwMK94Nn-3CXc/view?usp=sharing
+
