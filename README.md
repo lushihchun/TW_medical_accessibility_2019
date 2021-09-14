@@ -1,13 +1,13 @@
 # TW_medical_accessibility_2019
 
 === 醫療院所與醫事人員資料爬取(衛福部醫事查詢系統) ===  
-1.以selenium & bf4 自衛福部網站(https://ma.mohw.gov.tw/masearch/SearchBAS-101-1.aspx)爬取醫療院所及其醫事人員資料。  
+1.以selenium & bf4 自衛福部網站 (https://ma.mohw.gov.tw/masearch/SearchBAS-101-1.aspx) 爬取醫療院所及其醫事人員資料。  
 2.資料整理  
 3.以地址爬取經緯度  
   
     
 === 醫院資料爬取(衛福部機構公開資訊查詢) ===  
-1.以selenium & bf4 自衛福部網站(https://mcia.mohw.gov.tw/openinfo/A100/A101-1.aspx)爬取醫院及其醫事人員資料。
+1.以selenium & bf4 自衛福部網站 (https://mcia.mohw.gov.tw/openinfo/A100/A101-1.aspx) 爬取醫院及其醫事人員資料。
 2.資料整理
   
   
